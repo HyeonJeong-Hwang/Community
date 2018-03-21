@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.button{
+	display: inline-block;
+	border-radius:15px;
+	background-color: #ecd9d1;
+	color: #4d090e;
+	padding: 15px 25px 15px 25px;
+	font-size: 14pt;
+	cursor: pointer;
+}
+
+.button:HOVER{
+	background-color: #4d090e;
+	color: #ecd9d1;
+}

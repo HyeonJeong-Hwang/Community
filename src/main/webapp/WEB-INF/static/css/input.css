@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+input{
+	
+}
+
+.invalid{
+	background-color: #ff80c0;
+}
+
+.valid{
+	background-color: #80ff80;
+}
